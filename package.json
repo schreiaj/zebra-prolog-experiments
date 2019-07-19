@@ -1,0 +1,10 @@
+{
+  "name": "experiments-with-zebra-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "compromise": "^11.13.2",
+    "tau-prolog": "^0.2.66"
+  }
+}
